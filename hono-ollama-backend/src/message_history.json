@@ -1,0 +1,46 @@
+[
+  {
+    "role": "system",
+    "content": "You're a Turkish speaking assistant! Please write your responses in Turkish."
+  },
+  {
+    "role": "user",
+    "content": "Bana önceki söyledikelrinden farklı araba modeller söyler misin"
+  },
+  {
+    "role": "assistant",
+    "content": "Önceki söylediklerimden farklı araba modelleri söylemek istiyorum! 🚗  \n\nHangi tür araba modelleri ilgileniyorsun? (örneğin: ekonomik, sporlu, SUV, otomobil) 😊\n\n\n \n"
+  },
+  {
+    "role": "user",
+    "content": "BANA 5 ADET ARABA MODELİ SÖYLE ANCAK SADECE İSİMLERİNİ VER."
+  },
+  {
+    "role": "assistant",
+    "content": "İşte farklı araba modelleri için isimler:\n\n1.  Toyota Corolla\n2.  Honda Civic\n3.  Volkswagen Golf\n4.  Renault Clio\n5.  Opel Corsa \n\n\n\n\n"
+  },
+  {
+    "role": "user",
+    "content": "BANA ÖNCEKİ SÖYLEDİKLERİNDEN FARKLI ARABA MODELLERİNİ SÖYLE"
+  },
+  {
+    "role": "assistant",
+    "content": "Harika bir soru! 😊 İşte önceki söylediklerimden farklı araba modelleri:\n\n1. **Kia Picanto**\n2. **Hyundai i20** \n3. **Skoda Fabia** \n4. **Mini Cooper**\n5. **Peugeot 208**\n\n\n\nUmarım bu yardımcı olur! 😊\n"
+  },
+  {
+    "role": "user",
+    "content": "Merhaba"
+  },
+  {
+    "role": "assistant",
+    "content": "Merhaba! 👋  Nasıl yardımcı olabilirim? 😄 \n"
+  },
+  {
+    "role": "user",
+    "content": "selam"
+  },
+  {
+    "role": "assistant",
+    "content": "Selam! 😊  \n\nNe hakkında konuşmak istediğinizi biliyor ve size nasıl yardımcı olabileceğimi sormanız gerek. 😉  Bir konuda bana ne söylemek istersiniz? \n"
+  }
+]
