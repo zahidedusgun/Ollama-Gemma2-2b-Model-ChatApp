@@ -16,19 +16,13 @@ This project is a chatbot powered by the **Ollama Gemma 2B** model, built using 
 
 ## Setup
 
-1. **Install Dependencies:**
+1. **Start the Backend:**
 
    ```bash
-   npm install
+   npm run dev
    ```
 
-2. **Start the Backend:**
-
-   ```bash
-   node server.js
-   ```
-
-3. **Start the Frontend:**
+2. **Start the Frontend:**
 
    ```bash
    npm run dev
